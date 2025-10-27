@@ -5,7 +5,7 @@ node_modules/
 /backend/node_modules/
 
 # Environment files
-
+/admin/.env 
 /frontend/.env
 /backend/.env
 
